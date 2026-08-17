@@ -1,30 +1,53 @@
-# Mapa Mental: Análise de Negócios (BABOK)
+# 📊 Resumo — Análise de Negócios (BABOK Guide / IIBA)
+
+Guia de estudos e mapa mental estruturado sobre os principais conceitos e fundamentos da Análise de Negócios segundo o **BABOK® v3 (Business Analysis Body of Knowledge)**.
+
+---
+
+## 🗺️ Mapa Mental (Mermaid)
 
 ```mermaid
 mindmap
-  root((Análise de Negócios))
-    Objetivo
-      Viabilizar mudanças
-      Gerar valor para stakeholders
-      Foco em problemas/oportunidades
-    BACCM
+  root((Análise de Negócios<br/>BABOK / IIBA))
+    1. Objetivo
+      Viabilizar mudanças que geram valor
+      Entender problemas e necessidades
+      Identificar oportunidades de negócio
+    2. BACCM
       Mudança
+        Transformação organizacional
       Necessidade
+        Problema ou oportunidade
       Solução
+        Forma de atender a necessidade
       Valor
+        Benefício para o stakeholder
       Stakeholder
+        Pessoa afetada ou interessada
       Contexto
-    Tipos de Requisitos
-      Negócio
-      Stakeholder
-      Solução
+        Condições que envolvem a situação
+    3. Tipos de Requisitos
+      Requisito de Negócio
+        Objetivos da organização
+      Requisito de Stakeholder
+        Necessidades de partes interessadas
+      Requisito de Solução
         Funcional
+          O que o sistema faz
         Não-Funcional
-      Transição
-    Áreas de Conhecimento
+          Qualidade e desempenho
+      Requisito de Transição
+        Temporário durante implantação
+    4. Áreas de Conhecimento
       Planejamento e Monitoramento
+        Governança e abordagem
       Elicitação e Colaboração
+        Obter e comunicar informações
       Gerenciamento do Ciclo de Vida
+        Rastrear e priorizar requisitos
       Análise de Estratégia
+        Estado atual e futuro
       Análise de Requisitos e Design
+        Modelagem e BPMN
       Avaliação da Solução
+        Medir desempenho e valor
