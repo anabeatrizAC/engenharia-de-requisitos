@@ -1,0 +1,28 @@
+ANÁLISE DE NEGÓCIOS (BABOK / IIBA)
+│
+├── 🎯 1. Objetivo
+│   ├── Viabilizar mudanças geradoras de valor para stakeholders
+│   └── Entender problemas, necessidades e oportunidades (além da tecnologia)
+│
+├── 🧩 2. BACCM (6 Conceitos Fundamentais)
+│   ├── Mudança (Transformação)
+│   ├── Necessidade (Problema/Oportunidade)
+│   ├── Solução (Forma de atender a necessidade)
+│   ├── Valor (Importância/Benefício)
+│   ├── Stakeholder (Envolvidos/Afetados)
+│   └── Contexto (Circunstâncias ao redor)
+│
+├── 📝 3. Tipos de Requisitos
+│   ├── Requisito de Negócio (Objetivos e metas organizacionais)
+│   ├── Requisito de Stakeholder (Necessidades de grupos específicos)
+│   ├── Requisito de Solução Funcional (O que o sistema faz)
+│   ├── Requisito de Solução Não-Funcional (Qualidade e desempenho)
+│   └── Requisito de Transição (Temporário, focado na implantação)
+│
+└── 🏢 4. Áreas de Conhecimento (6 Pilares)
+    ├── 1. Planejamento e Monitoramento (Governança e abordagem)
+    ├── 2. Elicitação e Colaboração (Entrevistas, workshops e coleta)
+    ├── 3. Gerenciamento do Ciclo de Vida (Rastreio e priorização)
+    ├── 4. Análise de Estratégia (Estado atual, futuro e riscos)
+    ├── 5. Análise de Requisitos e Design (Modelagem, BPMN e opções)
+    └── 6. Avaliação da Solução (Medução de desempenho e valor gerado)
