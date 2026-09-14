@@ -14,7 +14,7 @@ Apliquem a técnica aos requisitos levantados no projeto. Marquem apenas uma cat
 | **RF05** | Consultar horários disponíveis | **X** | | | | Essencial para o agendamento. |
 | **RF06** | Confirmar agendamento | **X** | | | | Necessário para não ocorrer atraso ou cancelamento da consulta. |
 | **RF07** | Cancelar consulta | **X** | | | | Necessário para liberar horários. |
-| **RF08** | Reagendar consultas. | **X** | | | | Deve ter para facilitar a organização das consultas. |
+| **RF08** | Reagendar consultas. | |**X**  | | | Deve ter para facilitar a organização das consultas. |
 | **RQ01** | Sistema disponível durante o horário de funcionamento da clínica. | **X** | | | | Necessário para agilidade no atendimento. |
 | **RQ02** | sistema deverá apresentar mensagens claras de erro e confirmação | **X** | | | | Necessário para não ocorrer nenhum engano. |
 | **RQ03** | Privacidade e conformidade com a LGPD | **X** | | | | Deve ter para a privacidade dos dados. |
